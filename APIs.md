@@ -1,0 +1,1 @@
+API stands for application programming interface. APIs let your product or service communicate with other products and services without having to know how they're implemented. This can simplify app development, saving time and money.
